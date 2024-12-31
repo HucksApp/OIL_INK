@@ -1,2 +1,2 @@
 # OIL INK
-Oil well report data collection
+Oil well data collection and monitoring app
